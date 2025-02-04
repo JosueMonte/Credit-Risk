@@ -43,7 +43,3 @@ El notebook finalmente muestra el resultado de la métrica AUC (Área bajo la cu
 ## Contribución
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request si tienes sugerencias o mejoras.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
